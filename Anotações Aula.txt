@@ -1,0 +1,27 @@
+Desevolvimento HTML II- Aula 02
+Criar uma estante de livros
+
+charset- grupo e caracteres utilizados em uma aplicação
+viewport- defini o tamanho da tela e os componentes que virão com isso.
+O tamanho da tela do dispo-sitivo que esta acessando a pagina.
+div- serve para dividir nosso conteudo e caixas, posicionar os elementos de tam e formatos diferentes e engobar outras tag e componentes, não afeta visualmente o projeto
+style display=flx- e quado o posicionamento dos elementos serão por linhas e não colunas.
+ol- lista ordenada
+li- linha (que add o numero da linha, ex 1. Exemplo)
+section- sessão que falara sobre o conteúdo
+img src- caminho referete a nossa imagem.
+img alt- texto alternativo (serve para leitores de telas para pessoas com deficiência)
+table- tabela
+thead- cabeçalho da tabela
+tbody- corpo da tabela
+th- para add decriçao no cabeçalho
+tr- cada tr e composta por uma linha na tabela
+td- separar as informações
+
+
+Utilizar Google Books para pesquisar os livros projeto:
+-Data
+-Autor
+-idioma original
+-Generos
+-Nome
